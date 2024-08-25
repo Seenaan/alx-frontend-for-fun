@@ -1,7 +1,6 @@
-## Accessibility
+# Web Accessibility
 
-### Learning Objectives
-
+## learning objectives
 - ARIA’s main purpose
 - WCAG conformance levels (A, AA and AAA)
 - The importance of Web Accessibility

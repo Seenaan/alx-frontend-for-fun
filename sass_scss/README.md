@@ -1,7 +1,6 @@
-## Sass & Scss
+# Sass & Scss
 
-### Learning Objectives
-
+## Learning objectives
 - What Sass means
 - How to write Sass & Scss file
 - What is the difference between Sass and Scss
